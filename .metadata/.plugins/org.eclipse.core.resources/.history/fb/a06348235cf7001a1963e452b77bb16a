@@ -1,0 +1,5 @@
+package com.mavenintegration.jenkins.domain;
+
+public class Product {
+
+}
