@@ -107,3 +107,11 @@
 2020-09-15 19:33:42,263 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sandeepthakur/maven-jenkins-integration/jenkins/src/main/resources
 2020-09-15 19:33:42,264 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-09-15 19:33:42,264 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sandeepthakur/maven-jenkins-integration/jenkins/src/test/resources
+2020-09-15 22:25:47,335 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 22:25:47,336 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sandeepthakur/maven-jenkins-integration/jenkins/src/main/resources
+2020-09-15 22:25:47,338 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 22:25:47,338 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sandeepthakur/maven-jenkins-integration/jenkins/src/test/resources
+2020-09-15 22:25:53,954 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 22:25:53,955 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sandeepthakur/maven-jenkins-integration/jenkins/src/main/resources
+2020-09-15 22:25:53,958 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 22:25:53,958 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sandeepthakur/maven-jenkins-integration/jenkins/src/test/resources
