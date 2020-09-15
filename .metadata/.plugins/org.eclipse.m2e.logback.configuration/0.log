@@ -115,3 +115,8 @@
 2020-09-15 22:25:53,955 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sandeepthakur/maven-jenkins-integration/jenkins/src/main/resources
 2020-09-15 22:25:53,958 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-09-15 22:25:53,958 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sandeepthakur/maven-jenkins-integration/jenkins/src/test/resources
+2020-09-16 01:33:21,061 [Worker-42: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.new.mavenintegration:jenkins:0.0.1-SNAPSHOT @ /Users/sandeepthakur/maven-jenkins-integration/jenkins/pom.xml.
+2020-09-16 01:33:21,231 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-16 01:33:21,232 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sandeepthakur/maven-jenkins-integration/jenkins/src/main/resources
+2020-09-16 01:33:21,234 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-16 01:33:21,234 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sandeepthakur/maven-jenkins-integration/jenkins/src/test/resources
